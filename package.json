@@ -9,7 +9,7 @@
   "author": "Carlos Navarro <carloscuadra14@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.1.10"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "csv-parser": "^2.3.2",
